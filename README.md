@@ -17,3 +17,6 @@ Currently working on the UI of mobile application for the same in Android Studio
 # Impact:
 - In testing, the model achieved an accuracy rate of 80%, which is significantly higher than traditional methods.
 - R squared error :  0.9887421869729113
+
+# Result:
+<img width="481" alt="image" src="https://user-images.githubusercontent.com/75372993/222920253-22406829-7a96-4425-b6f3-9df197786f4d.png">
